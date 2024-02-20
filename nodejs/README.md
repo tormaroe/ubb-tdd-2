@@ -1,0 +1,1 @@
+Simple test project for JavaScript/Node.js using Mocha test framework. I followed instructions at https://mochajs.org/#getting-started. https://github.com/shouldjs/should.js was used for assertions.
